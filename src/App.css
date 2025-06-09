@@ -230,7 +230,7 @@ body {
   border-top: 2px solid rgba(212, 175, 55, 0.3);
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
-}
+} 
 
 @keyframes slideDown {
   from {
